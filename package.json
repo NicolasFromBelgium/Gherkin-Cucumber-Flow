@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/NicolasFromBelgium/Gherkin-Cucumber-Flow#readme",
   "devDependencies": {
-    "@cucumber/cucumber": "^12.8.1",
-    "playwright": "^1.59.1"
+    "@cucumber/cucumber": "^12.8.1"
   }
 }
