@@ -11,10 +11,6 @@ Gherkin is a plain-text language with a simple grammar that lets you write **hum
 Cucumber is the tool that reads Gherkin files and executes them as automated tests.  
 Here we use **Cucumber.js** (the official JavaScript implementation) — lightweight, no Java required.
 
-### Continuous Integration (CI)
-Every push and every Pull Request runs the full test suite automatically.  
-**Tests must pass before any code can be merged into `main`.**
-
 ### Project Structure
 Gherkin-Cucumber-Flow/
 ├── features/
